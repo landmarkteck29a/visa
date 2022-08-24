@@ -4,4 +4,5 @@
 #python('Hello World')
 #=python script
 print('Hello Worl')
+# bugs removed
 
